@@ -1,6 +1,8 @@
+# Programmatic SEO with Langchain and Launchman
 
+This repo lets you ask 10-Q PDFs ask questions > Save the answers as markdown in an Airtable base. The resulting Airtable can then be synced with launchman.com to create Programmatic SEO pages. 
 
-This repo lets you ask 10-Q PDFs ask questions > Save the answers as markdown in an Airtable base
+More details: https://twitter.com/thisissukh_/status/1645183376222195712
 
 ## How to use
 
@@ -20,5 +22,4 @@ You will see a response in your console for the Microsoft 10-K report
 ## Acknowldgements
 
 - Big thanks to https://github.com/mayooear/gpt4-pdf-chatbot-langchain for the PDF loader functions
-# langchain-pdf-airtable
 # langchain-pdf-airtable
